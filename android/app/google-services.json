@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831781150590",
+    "project_id": "taskassistant-e4a70",
+    "storage_bucket": "taskassistant-e4a70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831781150590:android:02ae8c9a3658481a00dd2f",
+        "android_client_info": {
+          "package_name": "com.taskassitant.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-_llTatXbQijbJXBzBvai3nXidWrP_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

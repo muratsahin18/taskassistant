@@ -1,0 +1,44 @@
+name: flutter_application_2
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  path_provider: ^2.0.11
+  fluttertoast: 8.2.10
+  flutter:
+    sdk: flutter
+
+  # Firebase Core
+  firebase_core: ^3.2.0
+  firebase_auth: ^5.3.4
+  cloud_firestore: ^5.0.0
+
+  # Shared Preferences
+  shared_preferences: ^2.0.18
+
+  # SQLite ve Path
+  sqflite: ^2.0.0+4
+  path: ^1.8.0
+
+  # Provider State Management
+  provider: ^6.0.5
+
+  # Localization
+  flutter_localizations:
+    sdk: flutter
+
+  # Internationalization
+  intl: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
