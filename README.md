@@ -1,3 +1,3 @@
-# flutter_application_2
+# TaskAssistant
 
-A new Flutter project.
+A Flutter app that helps people organize their work.
